@@ -1,0 +1,95 @@
+{
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/780e895c-876e-4d76-beea-8c86a2a73bb1/horizontal-transparent-05262aac-e09a-4083-aee0-9a52d65923e1/logo-logo.png",
+    "searchQuery": "A compact electric arcade logo mark for Hello World: a bold abstract pixel burst",
+    "alternatives": [],
+    "solidUrlMap": {
+      "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/780e895c-876e-4d76-beea-8c86a2a73bb1/horizontal-transparent-05262aac-e09a-4083-aee0-9a52d65923e1/logo-logo.png": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/780e895c-876e-4d76-beea-8c86a2a73bb1/horizontal-original-05262aac-e09a-4083-aee0-9a52d65923e1/logo-logo.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/780e895c-876e-4d76-beea-8c86a2a73bb1/horizontal-transparent-05262aac-e09a-4083-aee0-9a52d65923e1/logo-logo.png": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/780e895c-876e-4d76-beea-8c86a2a73bb1/horizontal-transparent-05262aac-e09a-4083-aee0-9a52d65923e1/logo-logo.png"
+    },
+    "landscapeMockupUrlMap": {},
+    "logoSourceMap": {
+      "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/780e895c-876e-4d76-beea-8c86a2a73bb1/horizontal-transparent-05262aac-e09a-4083-aee0-9a52d65923e1/logo-logo.png": {
+        "sessionId": "780e895c-876e-4d76-beea-8c86a2a73bb1",
+        "logoId": "05262aac-e09a-4083-aee0-9a52d65923e1",
+        "groupId": "e7dfe737-c628-4e2a-bde0-738f4134332c"
+      }
+    },
+    "productMockupsMap": {
+      "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/780e895c-876e-4d76-beea-8c86a2a73bb1/horizontal-transparent-05262aac-e09a-4083-aee0-9a52d65923e1/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/780e895c-876e-4d76-beea-8c86a2a73bb1/horizontal-mockup-mug-05262aac-e09a-4083-aee0-9a52d65923e1/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/780e895c-876e-4d76-beea-8c86a2a73bb1/horizontal-mockup-card-05262aac-e09a-4083-aee0-9a52d65923e1/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/780e895c-876e-4d76-beea-8c86a2a73bb1/horizontal-mockup-tshirt-05262aac-e09a-4083-aee0-9a52d65923e1/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/780e895c-876e-4d76-beea-8c86a2a73bb1/horizontal-mockup-box-05262aac-e09a-4083-aee0-9a52d65923e1/logo-logo.png"
+        }
+      ]
+    },
+    "productMockups": [
+      {
+        "type": "mug",
+        "label": "Mug",
+        "url": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/780e895c-876e-4d76-beea-8c86a2a73bb1/horizontal-mockup-mug-05262aac-e09a-4083-aee0-9a52d65923e1/logo-logo.png"
+      },
+      {
+        "type": "card",
+        "label": "Business Card",
+        "url": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/780e895c-876e-4d76-beea-8c86a2a73bb1/horizontal-mockup-card-05262aac-e09a-4083-aee0-9a52d65923e1/logo-logo.png"
+      },
+      {
+        "type": "tshirt",
+        "label": "T-Shirt",
+        "url": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/780e895c-876e-4d76-beea-8c86a2a73bb1/horizontal-mockup-tshirt-05262aac-e09a-4083-aee0-9a52d65923e1/logo-logo.png"
+      },
+      {
+        "type": "box",
+        "label": "Packaging",
+        "url": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/780e895c-876e-4d76-beea-8c86a2a73bb1/horizontal-mockup-box-05262aac-e09a-4083-aee0-9a52d65923e1/logo-logo.png"
+      }
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-20T16:42:01.164Z",
+    "lastUpdated": "2026-08-20T16:42:57.456Z",
+    "surfaceMode": "dark",
+    "generatedForSurfaceColor": "#080A16",
+    "darkSurfaceUrl": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/780e895c-876e-4d76-beea-8c86a2a73bb1/horizontal-transparent-05262aac-e09a-4083-aee0-9a52d65923e1/logo-logo.png",
+    "logoGroupId": "e7dfe737-c628-4e2a-bde0-738f4134332c"
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/fb3c7702-6fa4-40ee-a41c-358033c8a663/favicon-transparent-93d909e1-2c84-41e2-8560-bdd8fb635f01/logo-logo.png",
+    "searchQuery": "favicon",
+    "alternatives": [],
+    "logoSourceMap": {
+      "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/fb3c7702-6fa4-40ee-a41c-358033c8a663/favicon-transparent-93d909e1-2c84-41e2-8560-bdd8fb635f01/logo-logo.png": {
+        "sessionId": "fb3c7702-6fa4-40ee-a41c-358033c8a663",
+        "logoId": "93d909e1-2c84-41e2-8560-bdd8fb635f01",
+        "groupId": "e7dfe737-c628-4e2a-bde0-738f4134332c"
+      }
+    },
+    "logoGroupId": "e7dfe737-c628-4e2a-bde0-738f4134332c",
+    "userModified": false,
+    "createdAt": "2026-08-20T16:42:28.932Z",
+    "lastUpdated": "2026-08-20T16:42:57.623Z",
+    "surfaceMode": "dark",
+    "generatedForSurfaceColor": "#080A16",
+    "darkSurfaceUrl": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/fb3c7702-6fa4-40ee-a41c-358033c8a663/favicon-transparent-93d909e1-2c84-41e2-8560-bdd8fb635f01/logo-logo.png"
+  }
+}
